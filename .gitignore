@@ -1,0 +1,162 @@
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+_mailinglist
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+
+# C extensions
+*.c
+*.so
+
+# Jython
+*$py.class
+
+# Build artifacts
+*.egg
+*.egg-info
+*.py[cod]
+.eggs
+.installed.cfg
+.mypy_cache
+build
+develop-eggs
+dist
+eggs
+lib
+lib64
+parts
+sdist
+var
+pip-wheel-metadata
+
+# Installer logs
+pip-log.txt
+
+# Test artifacts
+*.dat
+.cache
+.coverage*
+.ecosystem
+.tox
+.pytest_cache
+geckodriver.log
+htmlcov
+nosetests.xml
+
+# ASGI tutorial
+!examples/asgilook/.coveragerc
+
+# Docs
+docs/_build
+dash
+
+# Translations
+*.mo
+
+# Idea
+.idea
+
+# System
+.DS_Store
+
+# VIM swap files
+.*.swp
+
+# VIM temp files
+*~
+
+# VSCode
+
+.vscode
+
+#py Environment
+/venv
+/env
+
+
+.idea
+.ipynb_checkpoints
+.mypy_cache
+.vscode
+__pycache__
+.pytest_cache
+htmlcov
+dist
+site
+.coverage
+coverage.xml
+.netlify
+test.db
+log.txt
+Pipfile.lock
+env3.*
+env
+docs_build
+venv
+docs.zip
+archive.zip
+
+# vim temporary files
+*~
+.*.sw?
+
+
+vendor/*
+!vendor/vendor.json
+coverage.out
+count.out
+test
+profile.out
+tmp.out
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

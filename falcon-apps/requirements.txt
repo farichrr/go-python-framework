@@ -1,0 +1,6 @@
+asgiref==3.4.1
+click==8.0.1
+falcon==3.0.1
+gunicorn==20.1.0
+h11==0.12.0
+uvicorn==0.15.0
